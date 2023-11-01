@@ -21,7 +21,7 @@ In this lab, I install osTicket from the ground up using the necessary installat
 <h2>Installation Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/m6Bek7Y.png" height="80%" width="80%" alt="Installation Steps"/>
+<img src="https://i.imgur.com/2oYZQxb.png" height="80%" width="80%" alt="Installation Steps"/>
 </p>
 <p>
 Before installing any files, Internet Information Services (IIS) needs to be enabled. We are installing osTicket locally and it needs IIS in order to function. To turn on IIS, open the Control Panel. From the Control Panel, open Programs and and Turn Windows Features On or Off. Within this menu, expand Internet Information Services, expand Web Management Tools and enable IIS Management Console. Click and expand World Wide Web Services and expand Application Development Features. In Application Development Features, enable CGI and click ok to confirm.
@@ -29,7 +29,7 @@ Before installing any files, Internet Information Services (IIS) needs to be ena
 <br />
 
 <p>
-<img src="https://i.imgur.com/RB5YByC.png" height="80%" width="80%" alt="Installation Steps"/>
+<img src="https://i.imgur.com/Z5bP3Vu.png" height="80%" width="80%" alt="Installation Steps"/>
 </p>
 <p>
 After enabling IIS, download and install PHP Manager for IIS (PHPManagerforIIS_V1.5.0.msi) from the installtion files folder. Download and install the Rewrite Module (rewrite_amd64_en-US.msi) after installing PHP Manager for IIS.
