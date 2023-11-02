@@ -106,7 +106,7 @@ From the installation files, download and install HeidiSQL. Create a new session
 <br />
 
 <p>
-<img src="https://i.imgur.com/gOqjR1k.png" height="80%" width="80%" alt="Installation Steps"/>
+<img src="https://i.imgur.com/MePTpmj.png" height="80%" width="80%" alt="Installation Steps"/>
 </p>
 <p>
 Within osTicket browser window, enter the necessary details to set up osTicket. For the MySQL database, use the credentials used for MySQL and HeidiSQL.
@@ -114,8 +114,8 @@ Within osTicket browser window, enter the necessary details to set up osTicket. 
 <br />
 
 <p>
-<img src="https://i.imgur.com/3nczMAD.png" height="80%" width="80%" alt="Installation Steps"/>
-<img src="https://i.imgur.com/7V2YmH6.png" height="80%" width="80%" alt="Installation Steps"/>
+<img src="https://i.imgur.com/pKlUcWf.png" height="80%" width="80%" alt="Installation Steps"/>
+<img src="https://i.imgur.com/fZdVUdC.png" height="80%" width="80%" alt="Installation Steps"/>
 </p>
 <p>
 After everything is done, osTicket should now be installed! Before continuing to use osTicket, some clean up has to be done. First, delete the setup folder found in C:\inetpub\wwwroot\osTicket. Next, return to C:\inetpub\wwwroot\osTicket\include and change the permissions of the ost-config.php file. The file should no longer have full access to Everyone. Revert the permissions to "Read" only. 
